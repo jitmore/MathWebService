@@ -7,7 +7,7 @@ using System.Web.Services;
 namespace TestingThree
 {
     /// <summary>
-    /// Summary description for MathService
+    /// Summary description for MathService - it is used for addition
     /// </summary>
     [WebService(Namespace = "http://tempuri.org/")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
